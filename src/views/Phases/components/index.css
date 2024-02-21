@@ -1,0 +1,76 @@
+.summary {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 3px;
+}
+
+.box-one {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  grid-area: 1 / 1 / 2 / 3;
+  background-color: rgba(185, 159, 237, 0.6);
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.count {
+  font-size: 20px;
+  color: #323c43;
+  margin-top: 10px;
+  border: '2px  dashed red !important';
+}
+
+.box-two {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  grid-area: 1 / 1 / 2 / 3;
+  background-color: rgb(214, 227, 248);
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.box-three {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  grid-area: 1 / 1 / 2 / 3;
+  background-color: rgba(238, 184, 114, 0.6);
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.box-four {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  grid-area: 1 / 1 / 2 / 3;
+  background-color: rgba(184, 224, 192, 0.6);
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.box-five {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  grid-area: 1 / 1 / 2 / 3;
+  background-color: rgba(41, 162, 65, 0.6);
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.box-six {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  grid-area: 1 / 1 / 2 / 3;
+  background-color: rgba(80, 105, 173, 0.6);
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 700;
+}
